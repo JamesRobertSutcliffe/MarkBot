@@ -10,7 +10,7 @@ A Chat GPT driven coding review discord bot. The app implements the openAI API a
 
 The bot is named Markbot after my bootcamp coding tutor Mark who has helped me in reviewing code countless times.
 
-# Usage
+## Usage / Installation
 
 You can join the following server to test the bot:
 
