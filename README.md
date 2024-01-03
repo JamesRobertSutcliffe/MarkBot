@@ -6,7 +6,7 @@
 
 ## Description
 
-A Chat GPT driven coding review discord bot. The app implements the openAI API and dicord API to create a useful code review tool that can be called in discord. Users can prompt the bot by sending a codeblock within upticks in discord servers that Mark bot is present. The bot will then offer to review the code, with the review being sent via direct message. The user can then continue to the converation with bot via Chat GPT driven interaction.
+A Chat GPT driven coding review discord bot. The app implements the openAI API and discord API to create a useful code review tool that can be called in discord. Users can prompt the bot by sending a codeblock within upticks in discord servers that Mark bot is present. The bot will then offer to review the code, with the review being sent via direct message. The user can then continue to the converation with the bot via Chat GPT driven interaction.
 
 The bot is named Markbot after my bootcamp coding tutor Mark who has helped me in reviewing code countless times.
 
